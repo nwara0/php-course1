@@ -21,7 +21,7 @@
 
 
 <?php
-
+// add comment
 $email = $_POST['email_address'];
 $password = $_POST['password'];
 ?>
